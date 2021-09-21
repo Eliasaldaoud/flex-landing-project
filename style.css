@@ -1,0 +1,118 @@
+
+html {
+    background-color: rgb(51, 67, 141);
+    
+}
+.logo {
+   margin-left: 100px; 
+    height: 100 px;
+    width: 100px;
+    border-radius: 50%;  
+}
+.container1 {
+    display: flex;
+    justify-content: right;
+    margin: -60px 30px 60px 0px;
+    gap: 10px;
+    
+}
+ a{
+    text-decoration: none;
+    color:black;
+}
+li {
+    list-style-type: none;
+    
+}
+
+.header{
+    display:flex;
+    max-width: 500px;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    
+}
+.header-image{
+    margin-left: 1000px;
+    margin-top: -300px;
+    margin-right: 200px;
+    border-radius: 30px;;
+    
+}
+.button1{
+   padding: 10px;
+   font-size: 20px;
+   border-radius: 30px;
+   font-weight: 700;
+   border-color: rgb(125, 126, 194);
+    color:blueviolet;
+}
+.text {
+    text-align: center;
+   margin-bottom: 0px;
+   align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    }
+
+
+    .body img{
+        
+        height: 100px;
+        width: 100px;
+        border: solid black 5px;
+        border-radius: 30px;
+    }
+    
+    .body{
+        display:flex;
+        max-width: auto;
+        justify-content: center;
+        gap: 100px;
+        margin-top: 0px;
+        background-color: aliceblue;
+    }
+
+    .size{
+        text-align: center;
+        border-radius: 30px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .advice {
+        display:flex;
+        justify-content: center;
+        background-color: rgb(205, 196, 214);
+        padding: 50px;
+        max-width: auto;
+        font-size: 20px;
+        font-weight: bold;
+        flex-wrap: wrap;
+    }
+    .service{
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .button2{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    border-color: rgb(125, 126, 194);
+    color:blueviolet;
+    background-color: lightblue;
+
+    }
+    footer {
+        text-align: center;
+        font-weight: bold;
+        text-decoration: underline;
+        background-color: aquamarine;
+        padding:10px 0px 10px 0px;
+        margin-bottom: -7px;
+    }
